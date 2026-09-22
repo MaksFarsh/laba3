@@ -10,7 +10,7 @@
 ### Блок-схема
 
 
-<img width="267" height="542" alt="lab3_schema" src="https://github.com/user-attachments/assets/27746c24-32e2-40cf-9320-cc05a26647a8" />
+[блок схема](https://drive.google.com/file/d/1RpgNPCRChZP03mxm2_niou_2hWxzpD8M/view?usp=sharing)
 
 
 
