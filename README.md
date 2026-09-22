@@ -11,7 +11,7 @@
 ### Блок-схема
 
 
-[блок схема](https://drive.google.com/file/d/1RpgNPCRChZP03mxm2_niou_2hWxzpD8M/view?usp=sharing)
+[блок схема](https://drive.google.com/file/d/1sTG3QMhHVxaMrfdQIzCjqZYgxdeWcRLJ/view?usp=sharing)
 
 
 
